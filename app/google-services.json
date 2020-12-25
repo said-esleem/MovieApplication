@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420146368874",
+    "firebase_url": "https://covid19app-8d793.firebaseio.com",
+    "project_id": "covid19app-8d793",
+    "storage_bucket": "covid19app-8d793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420146368874:android:b5863cf77ddb6dbe119513",
+        "android_client_info": {
+          "package_name": "com.blogapp.aws.movieuitemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420146368874-ggsk828avo6ko2lqidc7tc69in0h986f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS06xJPxhP4ed31Kk8Ul5FPkNHbIlpWrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420146368874-ggsk828avo6ko2lqidc7tc69in0h986f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

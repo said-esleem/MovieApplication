@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titlesFontSize">20sp</dimen>
+    <dimen name="layoutPadding">16sp</dimen>
+    <dimen name="editTextHeight">50dp</dimen>
+</resources>
